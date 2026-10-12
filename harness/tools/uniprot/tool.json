@@ -1,0 +1,9 @@
+{
+  "id": "mcp-uniprot",
+  "server_name": "uniprot",
+  "entry": "server.py",
+  "enabled": true,
+  "description": "Retrieve protein FASTA by UniProtKB accession or Entry URL.",
+  "tools": ["uniprot_get_fasta"],
+  "tool_call_timeout_ms": 30000
+}

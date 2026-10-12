@@ -1,0 +1,9 @@
+{
+  "id": "mcp-sequence",
+  "server_name": "sequence",
+  "entry": "server.py",
+  "enabled": true,
+  "description": "Call the local FastAPI service for deterministic protein sequence statistics.",
+  "tools": ["sequence_analyze"],
+  "tool_call_timeout_ms": 30000
+}

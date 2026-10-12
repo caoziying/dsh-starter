@@ -1,0 +1,10 @@
+**/.venv/
+**/__pycache__/
+**/*.pyc
+harness/.runtime/
+harness/logs/
+harness/results/
+harness/config/provider.json
+harness/config/secrets.env
+*.zip
+*.sha256

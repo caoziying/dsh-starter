@@ -1,0 +1,5 @@
+{
+  "reference_only": true,
+  "loaded": false,
+  "tools": {"uniprot_get_fasta": "根据 UniProt Entry 或 URL 获取 FASTA 与蛋白质序列。"}
+}

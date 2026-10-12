@@ -1,0 +1,5 @@
+{
+  "reference_only": true,
+  "loaded": false,
+  "tools": {"probe_echo": "原样返回输入文字和固定来源标记，用于验证 MCP 连接。"}
+}

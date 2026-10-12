@@ -1,0 +1,5 @@
+{
+  "reference_only": true,
+  "loaded": false,
+  "tools": {"sequence_analyze": "通过 HTTP 调用本地 FastAPI，返回蛋白质序列长度与氨基酸组成。"}
+}

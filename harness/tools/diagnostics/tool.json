@@ -1,0 +1,9 @@
+{
+  "id": "mcp-diagnostics",
+  "server_name": "diagnostics",
+  "entry": "server.py",
+  "enabled": true,
+  "description": "Deterministic Tool used to verify Harness and Python MCP connectivity.",
+  "tools": ["probe_echo"],
+  "tool_call_timeout_ms": 30000
+}
